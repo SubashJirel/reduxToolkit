@@ -1,5 +1,9 @@
-import React from 'react';
+import React, { useState } from 'react';
 
 export default function App() {
-  return <div>Redux toolKit</div>;
+  return (
+    <>
+      <div>Redux toolKit </div>
+    </>
+  );
 }
